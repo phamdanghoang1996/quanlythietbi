@@ -1,0 +1,100 @@
+@charset "utf-8";
+.headdn1{
+	float:right;
+	margin-right:5%;
+	margin-top:5px;
+}
+.headdn{
+	float:right;
+	margin-top:5px;
+}
+.footer{
+	background-color:#F7F7F7;
+	color:#808080;
+	font-family:cursive;
+	text-align:center
+}
+a:link{
+	color:#C0C0C0}
+a:hover{
+	color:#FF8080;
+	text-decoration:none}
+.buttons:hover{
+	background-color:#FF8000;
+	color:red;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	font-weight:bold}
+.dad{
+	clear:both;}
+.navactive{
+	background-color:#FFF;
+	color:#000;
+	font-weight:bold
+}
+.navbox{
+	background-color:#F7F7F7;
+	color:black;
+	width:100%;
+	margin:0 auto;}
+.form-dn{
+	width:40%;
+	margin:0 auto;
+	text-align:center;	
+}
+.buttonss{
+	background-color:#0C0;
+	color:white;
+	font-weight:bold;
+	width:50%;
+	margin-top:3%}
+.buttonss:hover{
+	background-color:#FF9393;
+	color:white;
+	font-weight:bold;
+	width:50%}
+.dad{
+	clear:both;}
+.navactives{
+	background-color:#FFF;
+	color:#000;
+	font-weight:bold
+}
+.divc{
+	width:50%;
+	float:right;
+}
+.square{
+    background-color:#0F0;
+    padding-top:5%;
+	padding-left:10%;
+	float:left;
+}
+.textsquare{
+	float:left;
+	margin-left:2%}
+.bhover{
+	background-color:none}
+.bhover:hover{
+	background-color:#FFF;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	font-weight:bold;
+	color:white}
+.insert{
+	width:100%}
+.links{
+	text-align:center;
+	float:right;
+	text-decoration:none;
+	}
+.buttonz{
+	background-color:#0C0;
+	color:white;
+	font-weight:bold;
+	width:50%}
+.buttonz:hover{
+	background-color:#C0C0C0;
+	color:white;
+	font-weight:bold;
+	width:50%}
